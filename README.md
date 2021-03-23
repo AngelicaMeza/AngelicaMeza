@@ -7,10 +7,9 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Angelica Meza 👩🏻‍💻 💞️
 
-Degree in Computer Science. Developer at Odoo. 
-I quickly learn new ideas and concepts, I like to develop solutions creative and innovative. 😄
+Degree in Computer Science. Developer at Odoo 😄
 
-#### 🔭 I’m currently looking for new opportunities .
+#### 🔭 I quickly learn new ideas and concepts, I like to develop solutions creative and innovative.
 
 
 ## ⚡ Technologies Stack
