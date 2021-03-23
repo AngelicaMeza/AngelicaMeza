@@ -1,10 +1,7 @@
-### Hi there 👋
 
 <!--
 **AngelicaMeza/AngelicaMeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Angelica Meza 👩🏻‍💻 💞️
 
 Degree in Computer Science. Developer at Odoo 😄
